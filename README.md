@@ -69,7 +69,7 @@ for C/C++ to Java register modeling. All register definitions, file paths, and
 outputs are anonymized or generalized. No proprietary PMBus data or confidential
 hardware information is included.
 
----
+
 
 ## License
 This project is provided for educational and demonstration purposes.
